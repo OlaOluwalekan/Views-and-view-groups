@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewAndViewGroups</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="page2">Chat</string>
+	<string name="app_label">VVG</string>
+
+</resources>
